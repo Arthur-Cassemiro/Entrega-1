@@ -1,0 +1,70 @@
+#container{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+
+
+
+.caixa-1{
+    width: 20%;
+    height: 100%;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.menu-superior{
+    width: 100%;
+    height: 10%;
+    background-color: brown;
+}
+
+.texto-inferior{
+    width: 100%;
+    height: 90%;
+    background-color: chocolate;
+}
+
+.opcoes{
+    width: 100%;
+    height: 7%;
+    background-color: darkkhaki;
+}
+
+.opcao-1{
+    width: 50%;
+    height: 100%;
+    background-color: darkturquoise;
+}
+
+.opcao-2{
+    width: 50%;
+    height: 100%;
+    background-color: darkviolet;
+}
+
+.texto{
+    width: 100%;
+    height: 93%;
+    background-color: darkolivegreen;
+}
+
+.caixa-2{
+    width: 80%;
+    height: 100%;
+    background-color: burlywood;
+}
+
+.minhas-informacoes{
+    width: 100%;
+    height: 95%;
+    background-color: cornflowerblue;
+}
+
+.rodape{
+    width: 100%;
+    height: 5%;
+    background-color: crimson;
+}
