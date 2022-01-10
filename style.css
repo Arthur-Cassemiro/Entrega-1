@@ -56,12 +56,6 @@ body,html{
 }
 
 
-@media only screen and (min-width: 2000px) {
-    .nick {
-      
-        width: 30%;
-    }
-  }
   
 
 
@@ -187,12 +181,15 @@ body,html{
     height: 200px;
 }
 
+
+
 .minhas-informacoes{
     margin-top: 40px;
     width: 30%;
-    background-image: url('imagens/pikachu.jpg');
+    background-image: url('imagens/eu.jpeg');
+    background-size: 100% 100%;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top;
     background-size: cover;
     border-radius:  20px 20px 0px 0px;
 
@@ -354,3 +351,14 @@ body,html{
     width: 40px;
     height: 40px;
 }
+
+
+@media only screen and (min-width: 2000px) {
+    .nick {
+      
+        width: 30%;
+    }
+    .foto{
+        height: 500px;
+    }
+  }
